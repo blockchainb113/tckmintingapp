@@ -1,0 +1,40 @@
+{
+  "CONTRACT_ADDRESS": "0x7776c38dee89502feaeb1588aa98f3b8636525cb",
+  "SCAN_LINK": "https://etherscan.io/address/0x7776c38dee89502feaeb1588aa98f3b8636525cb",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": " Rootygang ",
+  "SYMBOL": " ROOT ",
+  "MAX_SUPPLY": 450,
+  "WEI_COST": 69000000000000000,
+  "DISPLAY_COST": 0.069,
+  "MAX_MINT": 2,
+  "GAS_LIMIT": 150000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/rootygang",
+  "SHOW_BACKGROUND": true,
+  "WHITELIST" : false
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

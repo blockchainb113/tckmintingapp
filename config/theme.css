@@ -1,0 +1,38 @@
+:root {
+    --primary: #eeeeee;
+    --primary-text: #ffffff;
+    --secondary: #ffffff;
+    --secondary-text: #000000;
+    --accent: #000000;
+    --accent-text: #ffffff;
+    --titels: #fbdd00;
+    --sub-titels: #696969;
+    --sub-background: #000000eb;
+    --buttons: #ffffff;
+    --buttons-hover: #ffffff;
+}
+
+a.social {
+    color: #000000;
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+}
+
+div {
+    background-color: rgba(0, 0, 0, 0);
+    font-family: 'Roboto', sans-serif;
+}
+
+li {
+    float: left;
+    padding-top: 10px;
+}
+
+a {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(255, 255, 255);
+    display: block;
+    padding: 80px;
+    background-color: rgba(0, 0, 0, 0);
+}
